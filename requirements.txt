@@ -1,3 +1,5 @@
-tweepy
+requests
+flask
+redis
 python-dotenv
 
